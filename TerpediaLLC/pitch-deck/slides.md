@@ -54,7 +54,13 @@ layout: default
 
 <div>
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop" class="rounded-lg shadow-lg" />
+<img src="https://images.unsplash.com/photo-1532619675605-1ede6c7edf47?w=800&h=600&fit=crop" class="rounded-lg shadow-lg" alt="Researcher at desk with journal articles and laptop showing computational biology" />
+
+<div class="text-xs mt-2 text-gray-400 italic">
+
+*Researcher manually correlating data across multiple sources*
+
+</div>
 
 </div>
 
