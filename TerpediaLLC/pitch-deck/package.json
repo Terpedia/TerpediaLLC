@@ -1,0 +1,14 @@
+{
+  "name": "terpedia-pitch-deck",
+  "version": "1.0.0",
+  "description": "Terpedia, LLC Pitch Deck using Slidev",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.49.0",
+    "@slidev/theme-default": "*"
+  }
+}
