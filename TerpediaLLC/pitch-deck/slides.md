@@ -231,11 +231,11 @@ layout: default
 
 # kb.terpedia.com
 
-<div class="grid grid-cols-2 gap-4">
-
-<div>
-
 ## Biochemical Knowledge Base
+
+<div class="grid grid-cols-3 gap-2 text-sm mt-4">
+
+<div class="border rounded p-3">
 
 **Core Platform**
 - SPARQL Endpoint
@@ -243,22 +243,24 @@ layout: default
 - Functional Flavors Engine
 - AI Analysis
 
+</div>
+
+<div class="border rounded p-3">
+
 **Data Sources**
 - 70,000+ compounds
 - FooDB, FlavorDB, HMDB
 - Clinical trials
-- Essential oils databases
+- Essential oils DBs
+
+</div>
+
+<div class="border rounded p-3">
 
 **Key Features**
 - Federated queries
 - Knowledge graphs
 - Evidence-based recommendations
-
-</div>
-
-<div>
-
-<img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=600&fit=crop" class="rounded-lg shadow-lg" />
 
 </div>
 
@@ -288,13 +290,11 @@ layout: default
 - **Data Licensing** (4%)
 - **Consulting** (1%)
 
-**Pricing**: Free tier → $49/month (Aromatherapist) → $99/month (Researcher) → Enterprise (custom)
-
 </div>
 
 <div>
 
-```mermaid
+```mermaid {scale: 0.8}
 pie title Revenue Mix (2028)
     "Memberships" : 68
     "Enterprise" : 21
@@ -303,6 +303,12 @@ pie title Revenue Mix (2028)
 ```
 
 </div>
+
+</div>
+
+<div class="text-sm mt-4">
+
+**Pricing**: Free tier → $49/month (Aromatherapist) → $99/month (Researcher) → Enterprise (custom)
 
 </div>
 
