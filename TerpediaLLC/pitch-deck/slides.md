@@ -37,15 +37,26 @@ layout: default
 
 # The Problem
 
-<div class="text-lg">
+<div class="grid grid-cols-2 gap-4">
 
-- **Fragmented Terpene Data**: Terpene research scattered across PubMed, databases, and proprietary systems
-- **No Unified Platform**: Scientists must query multiple databases (ChEBI, PubChem, UniProt, RHEA) separately
-- **Missing Functional Connections**: No systematic way to connect flavor compounds to therapeutic functions
-- **Aromatherapy Knowledge Gap**: Traditional aromatherapy lacks molecular-level evidence and structure-function relationships
-- **Limited AI Integration**: No intelligent search connecting molecular structure to biological effects
-- **Knowledge Silos**: Terpene-protein interactions, clinical trials, and research articles disconnected
-- **Time-Consuming Research**: Hours spent manually correlating terpene structures with therapeutic effects
+<div>
+
+## Fragmented Ecosystem
+
+- Multiple disconnected databases
+- No unified search platform
+- Manual data correlation
+- Missing structure-function links
+
+**Result**: Hours wasted manually connecting terpene structures to therapeutic effects
+
+</div>
+
+<div>
+
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop" class="rounded-lg shadow-lg" />
+
+</div>
 
 </div>
 
@@ -61,15 +72,26 @@ layout: default
 
 # Terpedia: The Solution
 
-<div class="text-lg">
+<div class="grid grid-cols-2 gap-4">
 
-- **Unified Knowledge Base**: SPARQL-powered biochemical database integrating 70,000+ compounds
-- **Functional Flavors**: Connect terpenes, flavonoids, and aromatic compounds to therapeutic functions
-- **Aromatherapy Intelligence**: Map molecular structures to therapeutic benefits and applications
-- **Federated Queries**: Single query across ChEBI, PubChem, UniProt, RHEA, and more
-- **AI-Powered Analysis**: LLM integration for intelligent terpene research and insights
-- **Molecular Intelligence**: RDKit API for structure analysis, similarity search, and drug-likeness
-- **Research Integration**: Automated PubMed/article collection with NLP relationship extraction
+<div>
+
+## Unified Platform
+
+- **70,000+ compounds** integrated
+- **Single query** across all databases
+- **AI-powered** insights
+- **Structure → Function** mapping
+
+**One platform. One query. Infinite insights.**
+
+</div>
+
+<div>
+
+<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop" class="rounded-lg shadow-lg" />
+
+</div>
 
 </div>
 
@@ -128,23 +150,33 @@ layout: default
 
 # Functional Flavors & Aromatherapy
 
-<div class="text-lg space-y-4">
+<div class="grid grid-cols-2 gap-4">
 
-- **Functional Flavors Concept**
-  - Connect flavor compounds (terpenes, flavonoids, phenols) to therapeutic functions
-  - Map molecular structure → biological activity → therapeutic benefit
-  - Enable precision formulation based on desired outcomes
+<div>
 
-- **Aromatherapy Intelligence**
-  - Terpene-aroma-therapeutic effect relationships
-  - Evidence-based aromatherapy recommendations
-  - Molecular basis for traditional practices
-  - Safety and efficacy data integration
+## The Connection
 
-- **Therapeutic Associations**
-  - Anti-inflammatory, analgesic, anxiolytic, antimicrobial properties
-  - Mood enhancement, cognitive function, sleep quality
-  - Pain management, stress relief, immune support
+**Molecular Structure**  
+↓  
+**Biological Activity**  
+↓  
+**Therapeutic Benefit**
+
+### Applications
+- Anti-inflammatory
+- Mood enhancement
+- Pain management
+- Sleep quality
+
+**From traditional aromatherapy to molecular precision**
+
+</div>
+
+<div>
+
+<img src="https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&h=600&fit=crop" class="rounded-lg shadow-lg" />
+
+</div>
 
 </div>
 
@@ -160,26 +192,30 @@ layout: default
 
 # terpedia.com
 
-<div class="text-lg space-y-4">
+<div class="grid grid-cols-2 gap-4">
 
-- **WordPress-Based Platform**
-  - Content management and publishing system
-  - Case management and documentation
-  - User-friendly interface for content creators
-  - Integration with knowledge base APIs
+<div>
 
-- **Key Features**
-  - Article publishing and content management
-  - Case study management system
-  - User authentication and profiles
-  - Content search and discovery
-  - SEO optimization
+## WordPress Platform
 
-- **Use Cases**
-  - Publishing terpene research articles
-  - Managing case studies and documentation
-  - Content marketing and education
-  - Community engagement
+**Content Hub**
+- Article publishing
+- Case studies
+- User profiles
+- SEO optimized
+
+**Integration**
+- Knowledge base APIs
+- Real-time data
+- Search & discovery
+
+</div>
+
+<div>
+
+<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop" class="rounded-lg shadow-lg" />
+
+</div>
 
 </div>
 
@@ -189,30 +225,36 @@ layout: default
 
 # kb.terpedia.com
 
-<div class="text-lg space-y-4">
+<div class="grid grid-cols-2 gap-4">
 
-- **Biochemical Knowledge Base**
-  - **SPARQL Endpoint**: Apache Jena Fuseki with federated database queries
-  - **RDKit API**: Molecular property calculation, similarity analysis, drug-likeness
-  - **Functional Flavors Engine**: Structure-to-function mapping for therapeutic applications
-  - **Aromatherapy Database**: Curated therapeutic associations and evidence
-  - **PubMed Integration**: Automated article collection with AI NLP processing
-  - **Knowledge Graph**: Terpene-protein-disease-therapeutic relationship visualization
-  - **Chat Interface**: Real-time querying via MCP tools
+<div>
 
-- **Data Sources**
-  - 70,000+ compounds (FooDB, FlavorDB, Phenol-Explorer, HMDB)
-  - Terpene-protein docking data
-  - Clinical trials integration
-  - Essential oils databases (EssOilDB, TeroKit, COCONUT)
-  - Aromatherapy research and traditional medicine data
+## Biochemical Knowledge Base
 
-- **Key Differentiators**
-  - Only platform connecting flavors to therapeutic functions
-  - Evidence-based aromatherapy recommendations
-  - AI-powered relationship extraction
-  - Federated query across major databases
-  - Open-source, extensible architecture
+**Core Platform**
+- SPARQL Endpoint
+- RDKit API
+- Functional Flavors Engine
+- AI Analysis
+
+**Data Sources**
+- 70,000+ compounds
+- FooDB, FlavorDB, HMDB
+- Clinical trials
+- Essential oils databases
+
+**Key Features**
+- Federated queries
+- Knowledge graphs
+- Evidence-based recommendations
+
+</div>
+
+<div>
+
+<img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=600&fit=crop" class="rounded-lg shadow-lg" />
+
+</div>
 
 </div>
 
@@ -234,26 +276,25 @@ layout: default
 
 ## Revenue Streams
 
-- **API Access**: Pay-per-query or subscription tiers
-- **Functional Flavors API**: Premium access to structure-function mappings
-- **Aromatherapy Database**: Subscription for therapeutic recommendations
-- **Enterprise Licenses**: White-label knowledge base solutions
-- **Research Partnerships**: Collaboration with pharma/cannabis/wellness companies
-- **Data Licensing**: Curated datasets for ML/AI training
-- **Consulting Services**: Custom terpene research and formulation projects
+- **Memberships** (67%)
+- **Enterprise** (21%)
+- **API Access** (7%)
+- **Data Licensing** (4%)
+- **Consulting** (1%)
+
+**Pricing**: Free tier → $49/month (Aromatherapist) → $99/month (Researcher) → Enterprise (custom)
 
 </div>
 
 <div>
 
-## Pricing Strategy
-
-- **Free Tier**: Basic SPARQL queries, limited API calls
-- **Researcher**: $99/month - Full API access, functional flavors data
-- **Aromatherapist**: $49/month - Therapeutic associations database
-- **Enterprise**: Custom pricing - Dedicated infrastructure, SLA, white-label
-- **Data Licensing**: Per-dataset or annual contracts
-- **Consulting**: Project-based or retainer model
+```mermaid
+pie title Revenue Mix (2028)
+    "Memberships" : 68
+    "Enterprise" : 21
+    "API Access" : 7
+    "Data Licensing" : 4
+```
 
 </div>
 
@@ -271,16 +312,26 @@ layout: default
 
 # Traction & Milestones
 
-<div class="text-lg space-y-4">
+<div class="grid grid-cols-2 gap-4">
 
-- **Data Integration**: 70,000+ compounds from multiple databases
-- **Database Coverage**: FooDB, FlavorDB, Phenol-Explorer, HMDB, ChEBI, PubChem
-- **Functional Flavors**: Structure-to-function mapping framework developed
-- **Aromatherapy Data**: Therapeutic associations curated from research literature
-- **Infrastructure**: AWS-deployed, containerized microservices
-- **API Services**: RDKit API, SPARQL endpoint, PubMed/News collectors
-- **Technology Stack**: Production-ready with Docker, Terraform, S3
-- **MCP Integration**: Model Context Protocol server for AI assistants
+<div>
+
+## ✅ Completed
+
+- **70,000+ compounds** integrated
+- **6 major databases** connected
+- **Functional Flavors** framework
+- **AWS infrastructure** deployed
+- **Production-ready** APIs
+- **MCP server** for AI
+
+</div>
+
+<div>
+
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop" class="rounded-lg shadow-lg" />
+
+</div>
 
 </div>
 
@@ -302,8 +353,8 @@ layout: default
 
 ## Leadership
 
-- **Founder/CEO**: [Your Name]
-- **Technical Team**: Full-stack developers
+- **CEO**: Susan
+- **CTO**: Dan
 - **Scientific Advisors**: Biochemistry experts
 
 </div>
@@ -414,22 +465,33 @@ layout: default
 
 # Investment Ask
 
-<div class="text-lg space-y-4">
+<div class="grid grid-cols-2 gap-4">
 
-- **Amount**: $2-3 Million Seed Round
-- **Use of Funds**:
-  - **Product Development (40%)**: Enhanced AI features, mobile app, visualization tools, Functional Flavors engine
-  - **Data Acquisition (25%)**: Additional database licenses, full-text article access, aromatherapy datasets
-  - **Team Expansion (20%)**: Data scientists, biochemists, sales/marketing, customer success
-  - **Infrastructure (10%)**: AWS scaling, CDN, monitoring tools, security
-  - **Marketing (5%)**: Content marketing, conference presence, partnerships, SEO
+<div>
 
-- **Expected Outcomes** (18 months - by Q2 2027):
-  - Website launched Q1 2026 with membership revenue
-  - 1,000+ active members using platform
-  - 8+ enterprise customers
-  - $850K ARR (2027 projection)
-  - Series A readiness with proven revenue model
+## $2-3M Seed Round
+
+**Use of Funds:**
+- Product Development (40%)
+- Data Acquisition (25%)
+- Team Expansion (20%)
+- Infrastructure (10%)
+- Marketing (5%)
+
+</div>
+
+<div>
+
+## Expected Outcomes
+
+**18 months (by Q2 2027):**
+- Website launch Q1 2026
+- 1,000+ active members
+- 8+ enterprise customers
+- $850K ARR
+- Series A ready
+
+</div>
 
 </div>
 
@@ -445,32 +507,29 @@ layout: default
 
 # Next Steps
 
-<div class="text-lg space-y-4">
+<div class="grid grid-cols-2 gap-4">
 
-1. **Product Enhancement**
-   - Expand Functional Flavors database with more therapeutic associations
-   - Build Aromatherapy recommendation engine
-   - 3D molecular visualization
-   - Advanced AI chat features
-   - Mobile app development
-   - User authentication & profiles
+<div>
 
-2. **Data Expansion**
-   - Clinical trials database integration
-   - Real-time research article updates
-   - User-contributed data validation
-   - Traditional medicine and ethnobotanical data integration
+## Product & Data
+- Expand Functional Flavors database
+- Build Aromatherapy engine
+- 3D molecular visualization
+- Clinical trials integration
+- Real-time article updates
 
-3. **Go-to-Market**
-   - Beta launch with research institutions
-   - Cannabis industry partnerships
-   - Wellness and aromatherapy practitioner partnerships
-   - Conference presentations (ACS, SfN, aromatherapy conferences)
+</div>
 
-4. **Fundraising**
-   - Complete seed round
-   - Establish advisory board (biochemists, aromatherapists, wellness experts)
-   - Prepare Series A materials
+<div>
+
+## Go-to-Market
+- Beta launch Q1 2026
+- Research institution partnerships
+- Cannabis & wellness partnerships
+- Conference presentations
+- Complete seed round
+
+</div>
 
 </div>
 
