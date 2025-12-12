@@ -219,7 +219,7 @@ layout: default
 
 <div>
 
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop" class="rounded-lg shadow-lg" />
+<img src="/images/terpedia-screenshot.png" class="rounded-lg shadow-lg border" alt="Terpedia.com website screenshot" />
 
 </div>
 
