@@ -609,31 +609,32 @@ layout: default
 
 <div class="border rounded p-4">
 
-## Dan McShan - CTO
+## Dan McShan, PhD - CTO
 
 **LinkedIn**: [linkedin.com/in/daniel-mcshan-25479b](https://www.linkedin.com/in/daniel-mcshan-25479b/)
 
 **Background**:
-- **Co-Founder**, Terpedia (Sep 2020 - Present, 5+ years)
+- **Co-Founder**, Terpedia (2019 - Present, 5+ years)
+- **CTO**, Formul8.ai (2025 - Present)
 - **Principal Engineer**, Syzygyx, Incorporated (2000 - Present, 25+ years)
-- **Head of GNC (Space Systems)**, Rocket Lab
-- **Custodian**, The Inquiry Institute (2025 - Present)
+- **Former**: Lockheed Martin, NASA projects (Mars missions, space systems)
 
 **Education**:
-- **PhD, Computational Bioscience**, University of Colorado Anschutz School of Medicine (2002-2012)
-- **B.S.E., Electrical Engineering**, University of Michigan College of Engineering (1990-1994)
+- **PhD, Computational Bioscience**, University of Colorado School of Medicine (2012)
+- **B.S.E., Electrical Engineering**, University of Michigan (1994)
 
 **Key Achievements**:
-- Built Terpedia knowledge base (70K+ compounds, 6 databases)
-- 25+ years in complex systems engineering
-- Published: "PathMiner: predicting metabolic pathways by heuristic search"
-- World leader in human spaceflight simulation and test
+- Built Terpedia knowledge base (70K+ compounds, 6 databases, SPARQL/RDF)
+- **Patented**: "Methods, Systems and Software for Predicting Metabolic Pathways"
+- **Published**: PathMiner algorithm, multiple metabolic pathway research papers
+- 25+ years: NASA space systems, embedded AI, robotics, real-time simulation
+- Led engineering for Mars missions, satellite systems, human spaceflight simulation
 
 **Expertise**:
-- Full-stack development & software systems
-- Data engineering & SPARQL/RDF
-- Machine learning & autonomous robotics
-- Python, FastAPI, Docker, AWS
+- Computational biology & metabolic pathway analysis
+- Full-stack development & embedded systems
+- AI/ML, robotics, real-time simulation
+- SPARQL/RDF, knowledge graphs, data engineering
 
 </div>
 
