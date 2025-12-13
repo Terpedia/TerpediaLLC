@@ -579,24 +579,31 @@ layout: default
 
 <div class="border rounded p-4">
 
-## Susan C. Trapp - CEO
+## Susan C. Trapp, PhD - CEO
 
 **LinkedIn**: [linkedin.com/in/susan-c-trapp](https://www.linkedin.com/in/susan-c-trapp/)
 
 **Background**:
-- *[Previous roles and companies from LinkedIn]*
-- *[Years of experience]*
-- *[Education: Degrees, universities]*
+- **Co-Founder & Chief Scientist**, Terpedia (Aug 2020 - Present, 5+ years)
+- **Principal Consultant**, BioBiz Consulting, LLC (2007 - Present, 18+ years)
+- **Adjunct Professor**, University of Alabama in Huntsville (2023 - Present)
+- **Former Research Faculty**, Sonoran University of Health Sciences (2022-2025)
+
+**Education**:
+- **PhD, Biochemistry**, University of Maryland
+- Master's Coursework, Marine Environmental Estuary Science, University of Maryland
 
 **Key Achievements**:
-- *[Notable business achievements]*
-- *[Industry recognition]*
-- *[Relevant experience]*
+- Published research on terpene synthase genomics
+- 18+ years biotech consulting experience
+- International speaker on genomics & terpenes
+- Committee member: AHPA Cannabis Committee, Veterinary Cannabis Society
 
 **Expertise**:
-- Business strategy & market development
-- *[Domain expertise]*
-- *[Relevant skills]*
+- Genomics (NGS, RNAseq, PGx, NGx)
+- Terpene research & botany
+- Biotech strategy & business development
+- Health & wellness industry
 
 </div>
 
@@ -607,28 +614,28 @@ layout: default
 **LinkedIn**: [linkedin.com/in/daniel-mcshan-25479b](https://www.linkedin.com/in/daniel-mcshan-25479b/)
 
 **Background**:
-- *[Previous roles and companies from LinkedIn]*
-- *[Years of experience in software/data engineering]*
-- *[Education: Degrees, universities]*
+- **Co-Founder**, Terpedia (Sep 2020 - Present, 5+ years)
+- **Principal Engineer**, Syzygyx, Incorporated (2000 - Present, 25+ years)
+- **Head of GNC (Space Systems)**, Rocket Lab
+- **Custodian**, The Inquiry Institute (2025 - Present)
+
+**Education**:
+- **PhD, Computational Bioscience**, University of Colorado Anschutz School of Medicine (2002-2012)
+- **B.S.E., Electrical Engineering**, University of Michigan College of Engineering (1990-1994)
 
 **Key Achievements**:
-- Built Terpedia knowledge base (70K+ compounds)
-- *[Other technical achievements]*
-- *[Systems/platforms built]*
+- Built Terpedia knowledge base (70K+ compounds, 6 databases)
+- 25+ years in complex systems engineering
+- Published: "PathMiner: predicting metabolic pathways by heuristic search"
+- World leader in human spaceflight simulation and test
 
 **Expertise**:
-- Full-stack development
+- Full-stack development & software systems
 - Data engineering & SPARQL/RDF
+- Machine learning & autonomous robotics
 - Python, FastAPI, Docker, AWS
-- AI/ML integration & NLP
 
 </div>
-
-</div>
-
-<div class="mt-4 text-xs text-center">
-
-*Please update with actual LinkedIn profile information - see EXTRACT_LINKEDIN_INFO.md*
 
 </div>
 
