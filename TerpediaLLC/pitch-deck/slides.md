@@ -537,40 +537,38 @@ layout: default
 
 <div class="border rounded p-4">
 
-## Susan [Last Name] - CEO
+## Susan C. Trapp - CEO
 
 **Background**:
-- [Previous Role] at [Company]
-- [Years] years in [Industry/Field]
-- [Education] from [University]
-- LinkedIn: linkedin.com/in/[username]
+- LinkedIn: [linkedin.com/in/susan-c-trapp](https://www.linkedin.com/in/susan-c-trapp/)
+- *Update with: Previous roles, companies, years of experience*
+- *Update with: Education credentials*
 
 **Key Achievements**:
-- [Achievement 1]
-- [Achievement 2]
-- [Achievement 3]
+- *Update with: Notable business achievements*
+- *Update with: Industry recognition or awards*
+- *Update with: Relevant experience*
 
 **Expertise**:
 - Business strategy & market development
-- [Domain expertise]
-- [Relevant skill]
+- *Update with: Domain expertise*
+- *Update with: Relevant skills*
 
 </div>
 
 <div class="border rounded p-4">
 
-## Dan [Last Name] - CTO
+## Dan McShan - CTO
 
 **Background**:
-- [Previous Role] at [Company]
-- [Years] years in software/data engineering
-- [Education] from [University]
-- LinkedIn: linkedin.com/in/[username]
+- LinkedIn: [linkedin.com/in/daniel-mcshan-25479b](https://www.linkedin.com/in/daniel-mcshan-25479b/)
+- *Update with: Previous roles, companies, years of experience*
+- *Update with: Education credentials*
 
 **Key Achievements**:
-- Built [system/platform] handling [scale]
-- [Technical achievement]
-- [Open source contribution or patent]
+- *Update with: Technical achievements*
+- *Update with: Systems/platforms built*
+- *Update with: Open source contributions or patents*
 
 **Expertise**:
 - Full-stack development
@@ -584,7 +582,7 @@ layout: default
 
 <div class="mt-4 text-xs italic text-center">
 
-*Please update with actual LinkedIn profiles, photos, and credentials. See TEAM_UPDATE_INSTRUCTIONS.md*
+*Please review LinkedIn profiles and update with actual credentials. See LINKEDIN_INFO.md*
 
 </div>
 
