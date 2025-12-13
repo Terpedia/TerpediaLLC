@@ -1033,6 +1033,46 @@ layout: default
 </div>
 
 ---
+layout: section
+---
+
+# Sources & Citations
+
+---
+layout: default
+---
+
+# Data Sources
+
+<div class="text-sm space-y-2">
+
+**Market Data**:
+- [1] Grand View Research, Cannabis Market Size Report, 2023-2030
+- [2] Market Research Future, Essential Oils Market Analysis
+- [3] Evaluate Pharma, Pharmaceutical R&D Trends Report
+- [4] ResearchAndMarkets, Scientific Software Market Report
+- [5] Grand View Research, Functional Foods Market Report
+
+**Unit Economics Benchmarks**:
+- [6] OpenView Partners, SaaS Benchmarks Report
+- [7] ProfitWell, SaaS Churn Benchmarks
+- [8] Bessemer Venture Partners, State of the Cloud Report
+- [9] Totango, Freemium Conversion Rate Benchmarks
+
+**Financial Benchmarks**:
+- [10] SaaS Capital, SaaS Survey: Growth Benchmarks
+- [11] HubSpot, Marketing Conversion Benchmarks
+- [12] Carta, Seed Stage Valuation Benchmarks
+
+</div>
+
+<div class="mt-4 text-xs italic">
+
+*Note: All market data and benchmarks should be verified with latest reports before investor presentations.*
+
+</div>
+
+---
 layout: center
 class: text-center
 ---
