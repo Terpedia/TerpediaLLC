@@ -43,12 +43,14 @@ layout: default
 
 ## Fragmented Ecosystem
 
-- Multiple disconnected databases
+- Multiple disconnected databases (PubChem, ChEBI, UniProt, RHEA)
 - No unified search platform
-- Manual data correlation
+- Manual data correlation required
 - Missing structure-function links
 
-**Result**: Hours wasted manually connecting terpene structures to therapeutic effects
+**Impact**: Researchers must query multiple systems separately and manually correlate results
+
+*Note: Quantify with actual time/cost data from interviews if available*
 
 </div>
 
@@ -121,11 +123,11 @@ layout: default
 **$550B+**
 
 Total Addressable Market
-- Cannabis: $57B
-- Essential Oils: $15B
-- Pharma R&D: $200B
-- Research Tools: $10B
-- Functional Foods: $275B
+- Cannabis: $57B by 2030 [1]
+- Essential Oils: $15B+ [2]
+- Pharma R&D: $200B+ [3]
+- Research Tools: $10B+ [4]
+- Functional Foods: $275B+ [5]
 
 </div>
 
@@ -140,6 +142,8 @@ Serviceable Addressable Market
 - Aromatherapy platforms
 - Pharma research databases
 
+*Conservative estimate based on TAM segmentation*
+
 </div>
 
 <div>
@@ -152,13 +156,15 @@ Serviceable Obtainable Market (Year 3)
 - Conservative penetration
 - Focus on researchers & enterprises
 
-</div>
+*Based on comparable SaaS platforms*
 
 </div>
 
-<div class="mt-4 text-sm">
+</div>
 
-**Growth Drivers**: Cannabis legalization, AI/ML adoption, precision medicine, evidence-based aromatherapy demand
+<div class="mt-4 text-xs">
+
+[1] Grand View Research, Cannabis Market Size, 2023 | [2] Market Research Future, Essential Oils Market | [3] Evaluate Pharma, R&D Trends | [4] ResearchAndMarkets, Scientific Software Market | [5] Grand View Research, Functional Foods Market
 
 </div>
 
@@ -445,33 +451,31 @@ layout: default
 
 <div>
 
-## ✅ Technical Milestones
+## ✅ Technical Milestones (Completed)
 
 - **70,000+ compounds** integrated
+  - *Source: kb.terpedia.com data integration*
 - **6 major databases** connected
-- **Functional Flavors** framework
-- **AWS infrastructure** deployed
-- **Production-ready** APIs
-- **MCP server** for AI
+  - *FooDB, FlavorDB, Phenol-Explorer, HMDB, ChEBI, PubChem*
+- **Functional Flavors** framework developed
+- **AWS infrastructure** deployed and operational
+- **Production-ready** APIs (SPARQL, RDKit)
+- **MCP server** for AI integration
 
 </div>
 
 <div>
 
-## 🚀 Early Validation
+## 🚀 Early Validation (In Progress)
 
-- **Beta users**: In discussions with research institutions
-- **API usage**: Internal testing shows 10x faster queries
-- **Partnerships**: Exploring collaborations with cannabis labs
-- **Feedback**: Positive response from aromatherapy practitioners
+- **Beta program**: Planning Q1 2026 launch
+- **API performance**: Internal benchmarks show significant speed improvements vs. manual queries
+- **Partnership discussions**: [Number] research institutions, [Number] cannabis companies
+- **Market feedback**: Initial conversations show strong interest
+
+*Note: Update with specific numbers and names (with permission) before investor meetings*
 
 </div>
-
-</div>
-
-<div class="mt-4 text-sm italic">
-
-*"This solves a real problem we face daily"* - Cannabis Research Lab (in discussion)
 
 </div>
 
@@ -487,10 +491,12 @@ layout: default
 
 ## Problem Validation
 
-- **20+ researcher interviews** conducted
-- **Pain point confirmed**: 40% of time spent on data correlation
-- **Willingness to pay**: 85% said they'd pay $50-100/month
-- **Current solutions**: Expensive ($10K+) or inadequate
+- **Researcher interviews**: [Number] conducted
+- **Pain point**: Manual data correlation is time-consuming
+- **Current solutions**: SciFinder ($10K+/year), Reaxys ($15K+/year)
+- **Market need**: Unified platform for terpene research
+
+*Note: Update with actual interview data and quotes*
 
 </div>
 
@@ -498,18 +504,20 @@ layout: default
 
 ## Early Interest
 
-- **Research institutions**: 5 in beta discussions
-- **Cannabis companies**: 3 enterprise inquiries
-- **Aromatherapists**: 15+ interested in therapeutic database
-- **Pharma researchers**: Exploring terpene-protein data
+- **Research institutions**: [Number] in discussions
+- **Cannabis companies**: [Number] inquiries
+- **Aromatherapists**: [Number] interested
+- **Pharma researchers**: [Number] exploring data access
+
+*Note: Update with validated numbers and names (with permission)*
 
 </div>
 
 </div>
 
-<div class="mt-4">
+<div class="mt-4 text-sm italic">
 
-**Next**: Launch beta program Q1 2026 with 50-100 early adopters
+**Status**: Validation in progress - update with real data before investor meetings
 
 </div>
 
@@ -649,6 +657,11 @@ layout: default
 - **Q1 Launch**: Website + memberships
 - **Q2-Q4**: API access, data licensing
 
+**Assumptions**:
+- 500 members × $20/month avg = $120K
+- 2 enterprise × $10K/year = $20K
+- API + licensing = $40K
+
 </div>
 
 <div>
@@ -659,6 +672,11 @@ layout: default
 - **Enterprise**: 8
 - **Growth**: 372%
 - **Profitability**: Q4 2027
+
+**Assumptions**:
+- 2,500 members × $20/month = $600K
+- 8 enterprise × $25K/year = $200K
+- API + licensing = $50K
 
 </div>
 
@@ -671,13 +689,20 @@ layout: default
 - **Growth**: 229%
 - **ARR**: $3.2M run rate
 
-</div>
+**Assumptions**:
+- 8,000 members × $20/month = $1.9M
+- 25 enterprise × $24K/year = $600K
+- API + licensing = $300K
 
 </div>
 
-<div class="mt-4 text-sm">
+</div>
 
-**Key Assumptions**: 2% conversion rate, 5% monthly churn, $50 CAC, 24-month LTV, 6-month payback period
+<div class="mt-4 text-xs">
+
+**Key Assumptions**: Based on industry benchmarks for B2B SaaS growth [10]. Actual results may vary. Member growth assumes 2-3% conversion from free tier, 5-7% monthly churn, organic + content marketing acquisition.
+
+[10] SaaS Capital, SaaS Survey: Growth Benchmarks
 
 </div>
 
@@ -691,26 +716,32 @@ layout: default
 
 <div>
 
-## Customer Metrics
+## Customer Metrics (Projected)
 
-- **CAC**: $50 (content marketing, SEO)
-- **LTV**: $1,200 (24 months × $50 avg)
-- **LTV:CAC**: 24:1
-- **Payback Period**: 6 months
-- **Monthly Churn**: 5%
-- **Gross Margin**: 85%
+- **CAC**: $50-75 (content marketing, SEO)
+  - *Benchmark: Similar B2B SaaS platforms [6]*
+- **LTV**: $1,200-1,800 (24-36 months × $50 avg)
+  - *Based on $50/month ARPU, 5% monthly churn*
+- **LTV:CAC**: 16-24:1
+- **Payback Period**: 6-9 months
+- **Monthly Churn**: 5-7% (target)
+  - *Industry benchmark: 5-7% for B2B SaaS [7]*
+- **Gross Margin**: 80-85%
+  - *SaaS industry standard: 75-85% [8]*
 
 </div>
 
 <div>
 
-## Growth Metrics
+## Growth Metrics (Targets)
 
-- **Conversion Rate**: 2% (free → paid)
+- **Conversion Rate**: 2-3% (free → paid)
+  - *Based on freemium model benchmarks [9]*
 - **ARPU**: $50/month average
-- **Net Revenue Retention**: 110%
-- **Magic Number**: 0.75 (efficient growth)
-- **Rule of 40**: 35% (2027 target)
+  - *Mix of $49 (Aromatherapist) and $99 (Researcher) tiers*
+- **Net Revenue Retention**: 110-120% (target)
+- **Magic Number**: 0.75+ (efficient growth)
+- **Rule of 40**: 35%+ (2027 target)
 
 </div>
 
@@ -718,7 +749,9 @@ layout: default
 
 <div class="mt-4 text-xs">
 
-**Validation**: Based on competitor analysis and early customer interviews
+[6] OpenView Partners, SaaS Benchmarks | [7] ProfitWell, SaaS Churn Benchmarks | [8] Bessemer Venture Partners, State of the Cloud | [9] Totango, Freemium Conversion Rates
+
+*Note: These are projections based on industry benchmarks. Actual metrics will be validated post-launch.*
 
 </div>
 
@@ -780,6 +813,8 @@ layout: default
 - Marketing (5%) - $100K-150K
 
 **Runway**: 18-24 months to Series A
+- *Based on $2M raise, $100K/month burn rate*
+- *Allows for 20 months of operations*
 
 </div>
 
@@ -792,15 +827,20 @@ layout: default
 - 1,000+ active members
 - 8+ enterprise customers
 - $850K ARR
-- Series A ready ($8-12M valuation)
+- Series A ready
 
-**Investor Value Prop**:
-- Large market opportunity
-- Strong unit economics
-- Defensible technology
-- Experienced team
+**Valuation Context**:
+- *Seed stage: $8-12M post-money (typical range)*
+- *Based on $850K ARR → 10-14x ARR multiple*
+- *Comparable to early-stage B2B SaaS [12]*
 
 </div>
+
+</div>
+
+<div class="mt-4 text-xs">
+
+[12] Carta, Seed Stage Valuation Benchmarks
 
 </div>
 
@@ -850,9 +890,11 @@ layout: default
 
 </div>
 
-<div class="mt-4 text-sm">
+<div class="mt-4 text-xs">
 
-**Budget**: $150K marketing (5% of raise) → 3,000+ leads → 500 customers (17% conversion)
+**Budget**: $100-150K marketing (5% of raise). Conversion targets based on industry benchmarks for content marketing (2-5% typical) and direct sales (10-20% for enterprise) [11].
+
+[11] HubSpot, Marketing Conversion Benchmarks
 
 </div>
 
