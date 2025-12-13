@@ -527,46 +527,56 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4">
 
-<div>
+<div class="border rounded p-4">
 
-## Susan - CEO
+## Susan [Last Name] - CEO
 
-**Background**: [Add from LinkedIn]
-- Previous experience
-- Education
-- Key achievements
+**Background**:
+- [Previous Role] at [Company]
+- [Years] years in [Industry/Field]
+- [Education] from [University]
 - LinkedIn: linkedin.com/in/[username]
 
+**Key Achievements**:
+- [Achievement 1]
+- [Achievement 2]
+- [Achievement 3]
+
 **Expertise**:
-- Business strategy
-- Market development
-- [Add relevant skills]
+- Business strategy & market development
+- [Domain expertise]
+- [Relevant skill]
 
 </div>
 
-<div>
+<div class="border rounded p-4">
 
-## Dan - CTO
+## Dan [Last Name] - CTO
 
-**Background**: [Add from LinkedIn]
-- Previous experience
-- Education
-- Key achievements
+**Background**:
+- [Previous Role] at [Company]
+- [Years] years in software/data engineering
+- [Education] from [University]
 - LinkedIn: linkedin.com/in/[username]
+
+**Key Achievements**:
+- Built [system/platform] handling [scale]
+- [Technical achievement]
+- [Open source contribution or patent]
 
 **Expertise**:
 - Full-stack development
-- Data engineering
-- SPARQL, RDF, Python, FastAPI
-- AI/ML integration
+- Data engineering & SPARQL/RDF
+- Python, FastAPI, Docker, AWS
+- AI/ML integration & NLP
 
 </div>
 
 </div>
 
-<div class="mt-4 text-sm">
+<div class="mt-4 text-xs italic text-center">
 
-**Note**: Please update with actual LinkedIn profiles and credentials
+*Please update with actual LinkedIn profiles, photos, and credentials. See TEAM_UPDATE_INSTRUCTIONS.md*
 
 </div>
 
